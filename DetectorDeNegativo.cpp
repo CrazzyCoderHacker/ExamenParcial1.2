@@ -4,6 +4,8 @@
 
 int main(int argc, char** argv) 
 {
+	int r=1;
+	int i;
 	
 	while(r<=10)
 	{
